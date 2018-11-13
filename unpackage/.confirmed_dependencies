@@ -1,0 +1,13 @@
+{
+	"index.html": {
+		"resources": [
+			"/js/app.a6fe373d.js",
+			"/css/app.267816d3.css",
+			"/css/chunk-0552a483.95c5dc1b.css",
+			"/js/chunk-0552a483.27eeecb5.js",
+			"/favicon.ico",
+			"/js/chunk-vendors.b20a39c0.js",
+			"/css/chunk-vendors.9583e38d.css"
+		]
+	}
+}
